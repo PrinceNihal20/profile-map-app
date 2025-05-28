@@ -33,7 +33,7 @@ including map support, an admin dashboard, and detailed profiles.
 
 # Installation & Running Locally
   # 1. Clone the repository
-    git clone 
+    git clone https://github.com/PrinceNihal20/profile-map-app.git
 
   # 2. Navigate into the project directory
     cd profile-map-app
